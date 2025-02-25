@@ -19,6 +19,6 @@ namespace api_filmes_senai1.Domains
 
         [ForeignKey("IdGenero")]
         public Genero? Genero { get; set; }
-
+        public object Nome { get; internal set; }
     }
 }
