@@ -1,6 +1,6 @@
-# 🚀 API Iniciante - Projeto de Desenvolvimento
+# 🚀 API Iniciante - Projeto de Desenvolvimento API Filmes
 
-Bem-vindo ao repositório do projeto **API Iniciante**! Este projeto tem o objetivo de explorar os conceitos iniciais no desenvolvimento de APIs.
+Bem-vindo ao repositório do projeto **API Filmes**! Este projeto tem o objetivo de aprender os conceitos iniciais no desenvolvimento de APIs.
 
 ## 📌 Sobre o Projeto
 
@@ -15,8 +15,8 @@ Este projeto é uma **API simples** para realizar as operações básicas de **C
 
 Por enquanto, o projeto tem apenas a estrutura básica para trabalhar com tarefas:
 
-- **GET** `/api/tarefas`: Retorna a lista de tarefas.
-- **POST** `/api/tarefas`: Cria uma nova tarefa.
+- **GET** `/api/filmes1`: Retorna a lista de tarefas.
+- **POST** `/api/filmes1`: Cria uma nova tarefa.
 
 ## 🧑‍💻 Como Rodar o Projeto
 
@@ -36,7 +36,7 @@ Por enquanto, o projeto tem apenas a estrutura básica para trabalhar com tarefa
     npm start
     ```
 
-Agora, a API estará rodando em `http://localhost:3000`.
+Agora, a API estará rodando :)
 
 ## 🚧 Tarefa Concluída
 
