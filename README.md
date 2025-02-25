@@ -1,29 +1,29 @@
-# 🚀 API Iniciante - Projeto de Desenvolvimento API Filmes
+# 🚀 API Iniciante - Projeto de Desenvolvimento de API Filmes
 
-Bem-vindo ao repositório do projeto **API Filmes**! Este projeto tem o objetivo de aprender os conceitos iniciais no desenvolvimento de APIs.
+Bem-vindo ao repositório do projeto **API Filmes**! Este projeto tem como objetivo proporcionar uma introdução aos conceitos iniciais no desenvolvimento de APIs.
 
 ## 📌 Sobre o Projeto
 
-Este projeto é uma **API simples** para realizar as operações básicas de **CRUD** (Criar, Ler, Atualizar e Deletar). Foi desenvolvido para quem está começando no universo de APIs.
+Este projeto consiste em uma **API simples** que realiza operações básicas de **CRUD** (Criar, Ler, Atualizar e Deletar). Foi desenvolvido com foco em iniciantes no universo de APIs.
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Node.js**: Para rodar a aplicação.
-- **Express.js**: Framework simples para criar APIs.
+- **Node.js**: Ambiente de execução para a aplicação.
+- **Express.js**: Framework simplificado para a criação de APIs.
 
 ## ✨ Funcionalidades
 
-Por enquanto, o projeto tem apenas a estrutura básica para trabalhar com tarefas:
+Por enquanto, o projeto conta com a estrutura básica para trabalhar com tarefas:
 
-- **GET** `/api/filmes1`: Retorna a lista de tarefas.
-- **POST** `/api/filmes1`: Cria uma nova tarefa.
+- **GET** `/api/genero`: Retorna a lista de gêneros.
+- **POST** `/api/genero`: Cria um novo gênero.
 
-## 🧑‍💻 Como Rodar o Projeto
+## 🧑‍💻 Como Executar o Projeto
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/api-iniciante.git
-    cd api-iniciante
+    git clone https://github.com/kaykymoura/atividade-sobre-api.git
+    cd atividades-sobre-api
     ```
 
 2. Instale as dependências:
@@ -36,14 +36,16 @@ Por enquanto, o projeto tem apenas a estrutura básica para trabalhar com tarefa
     npm start
     ```
 
-Agora, a API estará rodando :)
+Agora, a API estará em execução! :)
 
 ## 🚧 Tarefa Concluída
 
-Com este projeto, aprendemos a criar **uma API básica**, utilizando rotas simples para manipulação de dados. O foco foi entender o fluxo básico de uma API, como:
+Neste projeto, aprendemos a construir **uma API básica**, utilizando rotas simples para a manipulação de dados. O foco principal foi compreender o fluxo básico de uma API, abordando tópicos como:
 
-- Como configurar um servidor com Express.
+- Como configurar um servidor com o Express.
 - Como criar rotas para diferentes operações.
 - Como trabalhar com dados de forma simples.
 
-Ainda estamos em uma fase inicial e o projeto pode ser expandido conforme aprendemos mais!
+Ainda estamos em uma fase inicial e o projeto tem potencial para ser expandido conforme adquirimos mais conhecimentos!
+
+---
